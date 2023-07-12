@@ -1,6 +1,3 @@
-
-### Title : Virtualization | How to Install and Use Windows Sandbox | anuniqsTV
-
 ### Description : This log in Virtualization, is to see how we can install Windows Sandbox to know how we can use
 
 ## Introducing Windows Sandbox
